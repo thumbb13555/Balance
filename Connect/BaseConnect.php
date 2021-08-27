@@ -1,8 +1,8 @@
 <?php
     $servername = "localhost";
     $username = "root";
-    $password = "";
-    $database = "my_app_price";
+    $password = "tuba21031";
+    $database = "my_app_request";
     $coin_id = "2909";
     $coin_name = "LikeCoin";
     $price = 0.6;
